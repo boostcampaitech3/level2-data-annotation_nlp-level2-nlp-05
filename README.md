@@ -35,7 +35,7 @@
     > 🏅 2022년 동계 올림픽은 2022년 2월 4일부터 2월 20일까지 중화인민공화국 베이징에서 열린동계 올림픽이다.
     
 
-### 정의된 Relations
+### Entities & Relations
 - 총 9개의 entity, 13개의 relation 정의
 - 가이드라인 : [guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
 

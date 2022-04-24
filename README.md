@@ -32,11 +32,8 @@
 - 베이징 동계 올림픽 관련 위키 데이터
 - 총 43개의 문서, 문장 1,693개로 구성
 - 예시
+    > 🏅 2022년 동계 올림픽은 2022년 2월 4일부터 2월 20일까지 중화인민공화국 베이징에서 열린동계 올림픽이다.
     
-    <aside>
-        🏅 2022년 동계 올림픽은 2022년 2월 4일부터 2월 20일까지 중화인민공화국 베이징에서 열린동계 올림픽이다.
-    
-    </aside>
 
 ### 정의된 Relations
 - 총 9개의 entity 정의
@@ -44,8 +41,8 @@
 
 ![Untitled 4](https://user-images.githubusercontent.com/59854630/164980916-d76f7b4b-865a-41f7-84bf-d73d8da7d406.png)
 
-### 가이드라인
-[guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
+
+- 가이드라인 : [guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
 
 
 ## 실험 결과
@@ -53,12 +50,12 @@
 ### 작업자간 일치도
 - fleiss-kappa : 0.937
 
-### 모델
+### 모델 Fine tuning
 
-<aside>
+```
     train(0.6), validation(0.2), test(0.2)
     klue/roberta-large, epochs: 20, learning rate: 2e-5, batch size: 32
-</aside>
+```
 
 -  validation micro f1 score : 59
 -  test set evalution micro f1 score : 55

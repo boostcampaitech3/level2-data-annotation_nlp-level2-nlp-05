@@ -2,10 +2,10 @@
 
 ---
 
-# Project: 문장 내 개체간 관계 추출
+# Project: 데이터 제작
 
 - Wrap-up Report : [프로젝트_Wrap_Up.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549846/_Wrap_Up.pdf)
-- 발표자료 : [베이징 동계 올림픽 데이터 제작 소개.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549847/default.pdf)
+- 발표 자료 : [베이징 동계 올림픽 데이터 제작 소개.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549847/default.pdf)
 
 ## Members
 
@@ -36,7 +36,7 @@
     
 
 ### Entities & Relations
-- 총 9개의 entity, 13개의 relation 정의
+- 총 entity 9개, relation 13개 정의
 - 가이드라인 : [guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
 
 ![Untitled 4](https://user-images.githubusercontent.com/59854630/164980916-d76f7b4b-865a-41f7-84bf-d73d8da7d406.png)

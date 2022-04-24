@@ -36,13 +36,13 @@
     
 
 ### 정의된 Relations
-- 총 9개의 entity 정의
-- 총 13개의 relation 정의
+- 총 9개의 entity, 13개의 relation 정의
+- 가이드라인 : [guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
 
 ![Untitled 4](https://user-images.githubusercontent.com/59854630/164980916-d76f7b4b-865a-41f7-84bf-d73d8da7d406.png)
 
 
-- 가이드라인 : [guideline.pdf](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-05/files/8549876/05_guideline.pdf)
+
 
 
 ## 실험 결과
